@@ -7,4 +7,3 @@
     * [Flexisel](http://9bitstudios.github.io/flexisel/)
     * [Tiny Carousel](http://baijs.nl/tinycarousel/)
     * [owlCarousel](http://owlgraphic.com/owlcarousel/demos/one.html)
-    * [owlCarousel](http://owlgraphic.com/owlcarousel/demos/one.html)
